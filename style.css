@@ -409,7 +409,7 @@ input::placeholder{
     height: 40vh;
    }
    form{
-    width: 80vh;
+    width: 80vw;
     min-height: 60vh;
    }
    textarea
